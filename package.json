@@ -1,5 +1,5 @@
 {
-  "name": "cl",
+  "name": "clmaker",
   "version": "1.0.0",
   "description": "A module for console logs",
   "main": "index.js",
